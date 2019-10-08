@@ -13,7 +13,7 @@
 
 int main(void) {
 	puts("!!!Hello World!!!\n"); /* prints !!!Hello World!!! */
-	printf("Hi Elephant!\n");
+	printf("Hi Elephant!!\n");
 	getchar();
 	return EXIT_SUCCESS;
 }
